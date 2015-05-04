@@ -1,8 +1,8 @@
 # Realm Presentation
 
-This repo is a basic Realm presentation meant to introduce a developer audience to Realm Objective-C, Realm Swift or Realm Java.
+This repo is a basic Realm presentation meant to introduce a developer audience to Realm Objective-C, Realm Swift, or Realm Java.
 
-You can use it directly in [Deckset](http://www.decksetapp.com/) or just look at Markdown [source](slides.md) & [images](images/).
+You can use it directly in [Deckset](http://www.decksetapp.com/) or just look at the Markdown [source](slides.md) & [images](images/).
 
 ## License
 
